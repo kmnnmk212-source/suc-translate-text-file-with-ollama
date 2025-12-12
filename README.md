@@ -13,3 +13,10 @@ hf_oauth_scopes:
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+Screenshot from 2025-12-12 23-57-19.png
+	
+
+app.py
+
+requirements.txt
