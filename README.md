@@ -1,8 +1,15 @@
-# suc-translate-text-file-with-ollama
-translate text file with ollama free on colab without gpu from englist to araabic
+---
+title: CohereLabs C4ai Command R7b 12 2024
+emoji: 🐢
+colorFrom: pink
+colorTo: green
+sdk: gradio
+sdk_version: 6.1.0
+app_file: app.py
+pinned: false
+hf_oauth: true
+hf_oauth_scopes:
+- inference-api
+---
 
-
-
-
-
-https://huggingface.co/spaces/asdgad/translate_text_and_text_file
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

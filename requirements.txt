@@ -1,0 +1,4 @@
+gradio>=4.0
+transformers>=4.30,<4.45  # تجنب أحدث إصدار به خلل
+torch>=2.0
+sentencepiece
